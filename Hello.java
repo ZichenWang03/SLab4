@@ -13,7 +13,8 @@ public class Hello {
 
 	public void methodB(void) { }
 
-	public void methodC(void) { }
+	public void methodC(void) { int i =0; }
+	
 
 	public void methodD(void) { }
 }
